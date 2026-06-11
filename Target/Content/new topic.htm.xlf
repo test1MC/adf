@@ -47,7 +47,9 @@
         restype="x-xml-h1"
         phase-name="pretrans"><source>new topic</source><seg-source><mrk
             mtype="seg"
-            mid="1">new topic</mrk></seg-source><target
+            mid="1"
+            MadCap:conditions="Default.PrintOnly"
+            MadCap:parentConditions="|Default.PrintOnly">new topic</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
@@ -57,7 +59,9 @@
         restype="x-xml-p"
         phase-name="pretrans"><source>Delete this text and replace it with your own content.</source><seg-source><mrk
             mtype="seg"
-            mid="1">Delete this text and replace it with your own content.</mrk></seg-source><target
+            mid="1"
+            MadCap:conditions="Default.PrintOnly"
+            MadCap:parentConditions="|Default.PrintOnly">Delete this text and replace it with your own content.</mrk></seg-source><target
           state="translated"><mrk
             mtype="seg"
             mid="1"
